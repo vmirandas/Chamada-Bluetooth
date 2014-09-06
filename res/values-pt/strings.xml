@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chamada</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_buetooth">Aluno presente</string>
+    <string name="str_btn_title_check_attendance">Faz Chamada</string>
+
+</resources>
