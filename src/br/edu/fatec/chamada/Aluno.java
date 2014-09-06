@@ -6,7 +6,7 @@ package br.edu.fatec.chamada;
 import android.bluetooth.BluetoothDevice;
 
 /****************************************************************************************************
- * @author ghsilva
+ * @author jade e veronica
  *
  ****************************************************************************************************/
 public class Aluno {
